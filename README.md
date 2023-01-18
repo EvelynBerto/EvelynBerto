@@ -9,7 +9,7 @@
   <img align="center" alt="evelyn-Android Studio" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Android_Studio_Icon_3.6.svg/1900px-Android_Studio_Icon_3.6.svg.png">
   <img align="center" alt="evelyn-Java" height="40" width="30" src="https://upload.wikimedia.org/wikipedia/pt/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png">
   <img align="center" alt="evelyn-Kotlin" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin_Icon.png/768px-Kotlin_Icon.png">
- <img align="center" alt="evelyn-Dart" height="30" width="30" src="https://img2.gratispng.com/20180409/zte/kisspng-dart-google-developers-flutter-android-darts-5acbd976aea304.6247890515233089187153.jpg">
+ <img align="center" alt="evelyn-Dart" height="30" width="40" src="https://img2.gratispng.com/20180409/zte/kisspng-dart-google-developers-flutter-android-darts-5acbd976aea304.6247890515233089187153.jpg">
 </div>
 </div>
 
